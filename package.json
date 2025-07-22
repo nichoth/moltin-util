@@ -27,8 +27,8 @@
   "author": "Nick Thomas <nichoth@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "form-data": "^0.2.0",
-    "got": "^6.2.0",
+    "form-data": "^4.0.4",
+    "got": "^14.4.7",
     "jimp": "^0.2.21",
     "q": "^1.4.1",
     "rc": "^1.1.6",
